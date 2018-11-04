@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+
+if [ "$1" == "kill-session" ]; then
+  echo "kill session $3"
+fi
+
+if [ "$1" == "list-sessions" ]; then
+  echo "8: 1 windows (created Tue Oct 30 16:31:38 2018) [311x56]
+9: 1 windows (created Tue Oct 30 16:31:38 2018) [311x56]
+borrower-dashboard-ui: 1 windows (created Tue Oct 30 16:31:38 2018) [311x56]
+challenge: 1 windows (created Tue Oct 30 16:31:38 2018) [311x56]
+funnel-ui: 4 windows (created Tue Oct 30 16:31:38 2018) [231x56]
+ipt: 6 windows (created Tue Oct 30 16:31:36 2018) [231x56] (attached)
+node: 1 windows (created Tue Oct 30 16:31:45 2018) [311x56]
+ui-utils: 1 windows (created Tue Oct 30 16:31:45 2018) [311x56]
+upgrade-styles: 1 windows (created Tue Oct 30 16:31:46 2018) [311x56]
+urc: 1 windows (created Tue Oct 30 16:31:46 2018) [311x56]
+"
+fi
