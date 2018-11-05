@@ -9,9 +9,8 @@
   },
   "bin": "cli.js",
   "files": [
-    "lib"
+    "cli.js"
   ],
-  "main": "lib/index.js",
   "keywords": [
     "tmux",
     "kill",
