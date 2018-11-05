@@ -1,6 +1,6 @@
 {
   "name": "tmux-kill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Interactively kill a tmux session",
   "homepage": "https://github.com/ruyadorno/tmux-kill",
   "author": {
