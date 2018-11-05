@@ -1,7 +1,8 @@
 language: node_js
+os:
+  - linux
+  - osx
 node_js:
-  - v11
-  - v10
-  - v8
-  - v6
-  - v4
+  - 'node'
+  - 'lts/*'
+script: 'npm run test'
