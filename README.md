@@ -14,7 +14,7 @@ Interactively kill a tmux session
 
 <p align="center">
 <a href="https://asciinema.org/a/210193">
-<img alt="demo animation" width="600" src="https://cdn.rawgit.com/ruyadorno/tmux-kill/master/demo.svg" />
+<img alt="demo animation" width="600" src="https://cdn.jsdelivr.net/gh/ruyadorno/tmux-kill/demo.svg" />
 </a>
 </p>
 
