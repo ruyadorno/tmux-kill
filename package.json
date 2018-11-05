@@ -9,7 +9,8 @@
   },
   "bin": "cli.js",
   "files": [
-    "cli.js"
+    "cli.js",
+    "get-tmux-session-id.js"
   ],
   "keywords": [
     "tmux",
